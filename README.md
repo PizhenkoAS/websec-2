@@ -12,6 +12,3 @@
 - для поисковых методов допустимо использование своего API и справочников на сервере
 - хорошая работа в условиях экрана смартфона
 - функция "любимых остановок"
-<details>
-<summary><mark><font color=darkred>учетка</font></mark></summary><p>clientId=test secret_key=just_f0r_tests</p>
-</details>
